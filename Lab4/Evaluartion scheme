@@ -1,0 +1,16 @@
+Evaluation Scheme:
+Execution of Program:80 Marks(Relative)
+Report: 20 Marks
+
+
+Fromula for relative grading=(80*Best_Tour_Length)/(obtained_Tour_length)
+Best_Tour_Length:Minimum tour length amoung all submissions.
+obtained_Tour_length: Path length obtained by your code.
+
+Note: Each test cases(6 test cases) are evaluated for 80 marks and average of all will be considered as total.
+
+
+
+
+
+
